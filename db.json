@@ -1,17 +1,7 @@
 {
   "users": {
     "args": {
-      "appBar": {
-        "args": {
-          "title": {
-            "args": {
-              "text": "Flutter Rendering UI Using JSON Data"
-            },
-            "type": "text"
-          }
-        },
-        "type": "app_bar"
-      },
+      
       "body": {
         "child": {
           "type": "center",
