@@ -29,7 +29,7 @@
                   "borderRadius": 15
                 }
               },
-              "child": {
+              "child":  {
                 "type": "column",
                 "args": {
                   "mainAxisSize": "min"
